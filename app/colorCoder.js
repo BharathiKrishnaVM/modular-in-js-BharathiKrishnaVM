@@ -29,7 +29,7 @@ function test() {
 }
 //Manual color combinations
 function printColorCodingManual() {
-    console.log("Color Coding Manual:\n" + manualColorCombination());
+    console.log("Manual Color Coding : " +manualColorCombination());
 }
 
 function main() {
