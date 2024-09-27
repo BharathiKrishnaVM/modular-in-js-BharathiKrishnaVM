@@ -1,5 +1,5 @@
 import {MAJOR_COLOR_NAMES, MINOR_COLOR_NAMES} from '../app/constants'
-const ColorPair = require('../app/colorPair');
+const ColorPair = require('../app/colorPairs');
 
 function getColorFromPairNumber(pairNumber) {
     const minorSize = MAJOR_COLOR_NAMES.length;
