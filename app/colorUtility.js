@@ -1,4 +1,4 @@
-import {MAJOR_COLOR_NAMES, MINOR_COLOR_NAMES} from '../app/constants'
+import {MAJOR_COLOR_NAMES, MINOR_COLOR_NAMES} from '../app/colorConstants'
 const ColorPair = require('../app/colorPairs');
 
 function getColorFromPairNumber(pairNumber) {
