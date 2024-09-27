@@ -1,4 +1,4 @@
-import { getColorFromPairNumber } from "./utility";
+import { getColorFromPairNumber } from "./colorUtility";
 import {MAJOR_COLOR_NAMES, MINOR_COLOR_NAMES} from '../app/colorConstants'
 
 function generateManualColors() {
